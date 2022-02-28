@@ -226,7 +226,7 @@ plt.show()
 # 项目链接
 aistudio链接：https://aistudio.baidu.com/aistudio/projectdetail/3531266
 
-github链接：https://github.com/Tomoko-hjf/-AI-/edit/main/README.md
+github链接：https://github.com/Tomoko-hjf/-AI-
 
 
 
